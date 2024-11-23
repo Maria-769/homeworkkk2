@@ -1,0 +1,60 @@
+body 
+{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url('background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+h1
+{
+    text-align: center;
+    color: #000000;
+    position: relative; 
+    left: 40px;
+}
+table
+{
+width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border: 1px solid black;
+}
+th
+{
+    padding: 10px;
+    text-align: center;
+    font-size: 14px;
+    border: 1px solid black;
+}
+tr
+{
+    padding: 10px;
+    text-align: center;
+    font-size: 14px;
+    border: 1px solid black;
+}
+td
+{
+    padding: 10px;
+    text-align: center;
+    font-size: 14px;
+    border: 1px solid black;
+}
+button
+{
+    font-weight: bold;
+    margin: 25px 0;
+    width: 20%;
+    padding: 10px;
+    background-color: #f1a0c0;
+    border-radius: 7px;
+    color: rgb(5, 5, 5);
+    font-size: 15px;
+    font:bolder;
+    cursor: pointer;
+    border: 0px;
+    justify-content: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
